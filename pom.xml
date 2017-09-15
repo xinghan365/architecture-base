@@ -15,6 +15,8 @@
         <module>biz-rule</module>
         <module>biz-flow</module>
         <module>common</module>
+        <module>admin</module>
+        <module>service-mgt</module>
     </modules>
     <parent>
         <groupId>zhihui.xu</groupId>
